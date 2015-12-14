@@ -58,6 +58,10 @@ http://www.linux.com/learn/new-user-guides?format=feed&type=rss
 http://www.linux.com/learn/linux-career-center?format=feed&type=rss
 https://vector.com/vi_servicepacks_de.rss
 https://vector.com/vi_drivers_de.rss
+<<<<<<< HEAD
 https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published&notcategories=No%20publish|Archived|AutoArchived|disputed&namespace=0&count=30&hourcount=124&ordermethod=categoryadd&stablepages=only
 https://db.alumni.tum.de/jobs/rss?advanced_search[art]=&advanced_search[fach]=&advanced_search[firma]=&advanced_search[land_id]=&advanced_search[ort_der_taetigkeit]=&advanced_search[sprache_arbeitsplatz]=
+=======
+https://www.bits.vib.be/index.php/training/175-perl
+>>>>>>> 5047640156b4bfe5ef16496e832907093e6e9d45
 
