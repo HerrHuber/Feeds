@@ -1,11 +1,12 @@
 http://www.spiegel.de/schlagzeilen/index.rss
 http://www.heise.de/developer/podcast/itunes/heise-developer-podcast-softwarearchitektour.rss
 http://www.heise.de/developer/rss/news-atom.xml
-http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=sec&feed=RSS2.0
-http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=apps&feed=RSS2.0
-http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=dev&feed=RSS2.0
-http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=mc&feed=RSS2.0
-http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=inet&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=sec&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=apps&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=dev&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=mc&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=inet&feed=RSS2.0
+https://rss.golem.de/rss.php?tp=wirtschaft&feed=RSS2.0
 http://www.heise.de/developer/rss/world-of-it/blog-atom.xml
 http://www.heise.de/developer/rss/dotnet-doktor/blog-atom.xml
 http://www.heise.de/developer/rss/Tales-from-the-Web-side/blog-atom.xml
